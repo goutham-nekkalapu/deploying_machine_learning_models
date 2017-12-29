@@ -5,7 +5,7 @@ This repository gives ready made template to deploy deep learning model using fl
 
 ## How to use it:
 1. Clone this repository 
-git clone --url---
+git clone https://github.com/goutham-nekkalapu/deploying_ML_models
 
 2. Install the requirements 
     pip install -r requirements.txt 
