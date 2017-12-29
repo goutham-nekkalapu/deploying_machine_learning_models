@@ -20,7 +20,7 @@ python flask_client.py
 
 ### Example :
 For the image 
-! [image] (http://farm3.static.flickr.com/2500/4038251210_1060c180b0.jpg)
+! [image](http://farm3.static.flickr.com/2500/4038251210_1060c180b0.jpg)
 
 The response from server, has the top-5 predictions, as below:
 
