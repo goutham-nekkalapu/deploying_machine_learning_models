@@ -4,19 +4,18 @@
 This repository gives ready made template to deploy deep learning model using flask. 
 
 ## How to use it:
-1. Clone this repository 
-git clone https://github.com/goutham-nekkalapu/deploying_ML_models
+1. Clone this repository : <br>
+   git clone https://github.com/goutham-nekkalapu/deploying_ML_models
 
-2. Install the requirements 
-    pip install -r requirements.txt 
+2. Install the requirements : <br>
+   pip install -r requirements.txt 
       
     If you want to have different versions of python and other deep learning libraries, you can use [Anaconda](https://anaconda.org/anaconda/python) to create environments.
 
 3. Start the server:
 python flask_server.py
 
-4. To use the model deployed, run the client program 
-python flask_client.py
+4. To use the model deployed, run the client program : python flask_client.py
 
 ### Example :
 For the image 
