@@ -12,10 +12,11 @@ This repository gives ready made template to deploy deep learning model using fl
       
     If you want to have different versions of python and other deep learning libraries, you can use [Anaconda](https://anaconda.org/anaconda/python) to create environments.
 
-3. Start the server:
+3. Start the server: <br>
 python flask_server.py
 
-4. To use the model deployed, run the client program : python flask_client.py
+4. To use the model deployed, run the client program : <br>
+python flask_client.py
 
 ### Example :
 For the image 
