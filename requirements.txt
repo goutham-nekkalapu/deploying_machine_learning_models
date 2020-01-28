@@ -22,7 +22,7 @@ PyYAML==3.12
 requests==2.18.3
 scipy==1.0.0
 six==1.11.0
-tensorflow==1.2.1
+tensorflow==1.15.2
 Theano==1.0.0
 urllib3==1.22
 watchdog==0.8.3
